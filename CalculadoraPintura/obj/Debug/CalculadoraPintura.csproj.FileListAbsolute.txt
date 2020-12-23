@@ -1,0 +1,7 @@
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe.config
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.pdb
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csprojAssemblyReference.cache
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.exe
+C:\Users\f045632\source\repos\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.pdb
